@@ -1,0 +1,22 @@
+
+body {
+	position: relative;
+	background-color: #f2f2f2;
+	background-image: url("../img/applewatch.jpg");
+	background-repeat: no-repeat;
+	background-position: 50% -30%;
+}
+
+#time {
+	position: relative;
+	margin: auto;
+	text-align: center;
+	font-size: 35px;
+	top: 264px;
+	left: 20px;
+	color: #b4d53a;
+	font-weight: lighter; 
+	z-index: 1;
+	font-family: 'Quicksand', sans-serif;
+}
+
